@@ -1,5 +1,9 @@
 # PNAS-Leach-2021
-Repository containing the notebooks used for the forecast-based attribution analysis of the 2019 European winter heatwave.
+Repository containing the notebooks used for the forecast-based attribution analysis of the 2019 European winter heatwave. The order of the notebooks (& figures they produce in brackets), as the analysis progresses in the text, is: 
+- "The_event" (Fig. 1);
+- "The_forecasts" (Fig. 2);
+- "The_experiments" (Fig. 3);
+- "The_attribution" (Fig. 4).
 
 ## Data availability
 In these notebooks, we use data from the following sources:
